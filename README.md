@@ -1,1 +1,5 @@
-# cogs118a_final
+# COGS 118A FINAL PROJECT - KEVIN XU
+
+## Final paper: 
+
+
